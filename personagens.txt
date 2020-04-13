@@ -1,8 +1,11 @@
 Luke Skywalker
+Leia
 Darth Vader
 Obi Wan Kenobi
 Master Yoda
 Han Solo
 Kylo Ren
-
-Poe Daneron
+Jabba the Hutt
+Rey
+Finn
+Chewbacca

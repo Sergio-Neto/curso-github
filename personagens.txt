@@ -2,3 +2,5 @@ Luke Skywalker
 Darth Vader
 Obi Wan Kenobi
 Master Yoda
+Han Solo
+Kylo Ren

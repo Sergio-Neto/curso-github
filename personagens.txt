@@ -5,3 +5,5 @@ Master Yoda
 Han Solo
 Kylo Ren
 Jabba the Hutt
+Rey
+Finn
